@@ -1,0 +1,16 @@
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 17px;
+}
+
+/* Example using Times New Roman */
+p {
+  font-family: 'Times New Roman', Times, serif;
+  color:rgb(202, 199, 199);
+}
+
+/* Example using Roboto */
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
